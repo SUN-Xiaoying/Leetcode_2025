@@ -1,3 +1,4 @@
+package Amazon;
 /* Input: s = "1337c0d3"
 // Output: 1337
 
