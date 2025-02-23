@@ -52,6 +52,12 @@ treeSet.pollLast();
 
 # 堆 PriorityQueue
 
+完全二叉树
+
+父： (i-1)/2
+左：i*2+1
+右：i*2+2
+
 ```java
 PriorityQueue<Integer> heap = new PriorityQueue<>(); // 默认小根堆
 
